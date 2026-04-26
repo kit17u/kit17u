@@ -1,1 +1,1 @@
-[my site](https://kit17u.github.io/)
+[homepage](https://renchan.net)
